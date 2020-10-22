@@ -1,0 +1,6 @@
+framework module Pods_boos {
+  umbrella header "Pods-boos-umbrella.h"
+
+  export *
+  module * { export * }
+}

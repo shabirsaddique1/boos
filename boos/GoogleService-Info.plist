@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>603722550691-60qjbtfc9l1hlvl64bmj28q31fdef5ob.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.603722550691-60qjbtfc9l1hlvl64bmj28q31fdef5ob</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>603722550691-vroikivduu3voh8b35s3ctevfmijvm43.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyCu_VX2mjBXCkY8ut62ICC5tkyOV96zQzU</string>
+	<key>GCM_SENDER_ID</key>
+	<string>603722550691</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.sigitechnologies.Boos</string>
+	<key>PROJECT_ID</key>
+	<string>boos-ca560</string>
+	<key>STORAGE_BUCKET</key>
+	<string>boos-ca560.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:603722550691:ios:4a0cb4899d4c82f6a71e16</string>
+	<key>DATABASE_URL</key>
+	<string>https://boos-ca560.firebaseio.com</string>
+</dict>
+</plist>
